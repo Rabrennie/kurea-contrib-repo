@@ -1,0 +1,8 @@
+{
+  "name": "kurea-contrib-repo",
+  "main": "index.coffee",
+  "version": "1.0.0",
+  "description": "A module for Kurea that links back to the repo.",
+  "license": "MIT",
+  "dependencies": {}
+}
