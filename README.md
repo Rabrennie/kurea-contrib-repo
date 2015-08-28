@@ -1,4 +1,4 @@
-# kurea-contrib-rekt
+# kurea-contrib-repo
 
 A module for Kurea that links back to the repo.
 
