@@ -8,16 +8,16 @@ A module for Kurea that links back to the repo.
 
 To install from npm, run this command in the directory where you installed Kurea:
 
-`npm install kurea-contrib-rekt`
+`npm install kurea-contrib-repo`
 
 ### Kurea Package Manager
 
 To install from Kurea at runtime, give Kurea this command:
 
-`!package install rabrennie/kurea-contrib-rekt`
+`!package install rabrennie/kurea-contrib-repo`
 
 ## Usage
 
-`!rekt args...`
+`!repo args...`
 
  - `args...`: a list of arguments
