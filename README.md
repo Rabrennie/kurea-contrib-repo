@@ -1,6 +1,6 @@
 # kurea-contrib-rekt
 
-A module for Kurea to tell someone they're rekt.
+A module for Kurea that links back to the repo.
 
 ## Installation
 
@@ -21,4 +21,3 @@ To install from Kurea at runtime, give Kurea this command:
 `!rekt args...`
 
  - `args...`: a list of arguments
- 
