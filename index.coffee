@@ -12,4 +12,4 @@ module.exports = (Module) ->
 			@addRoute 'repo', (origin, route) =>
 				@reply origin, "My repo is located at https://github.com/kellyirc/kurea"
 
-	RektModule
+	RepoModule
